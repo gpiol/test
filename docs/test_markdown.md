@@ -56,7 +56,7 @@ Use the `printf()` function.
 
 
 
-
+[read](.//test_markdown1.md)
 
 
 [Foo](#Welcome to MarkdownPad 2)
