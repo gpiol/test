@@ -8,6 +8,7 @@
 Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.sdfsdf ssdfdsdsdfs dfdddd dd ddd ddd d dddd ddddd
 
 this is a new feature
+this is a new release
 Give them a try:
 
 - **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
