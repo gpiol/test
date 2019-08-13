@@ -9,6 +9,7 @@ Enjoy first-class Markdown support with easy access to  Markdown syntax and conv
 
 this is a new feature
 this is a new release
+this is a new feature 2
 Give them a try:
 
 - **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
